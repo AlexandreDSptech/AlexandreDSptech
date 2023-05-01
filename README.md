@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alexandre.
-- 👀 I’m interested in Y..<a href="[https://www.youtube.com/?hl=pt&gl=BR](https://github.com/Yasmya)">.</a>
+- 👀 I’m interested in Y..<a href="https://github.com/Yasmya">.</a>
 - 🌱 I’m currently learning technology.
 - 💞️ I’m looking to collaborate on Sptech.
 - 📫 How to reach me alexandre.murata@sptech.school
