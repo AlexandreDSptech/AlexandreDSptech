@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alexandre.
-- 👀 I’m interested in Y<a href="https://github.com/AlexandreDSptech">.</a><a href="https://www.google.com/search?q=he+likes+her&sxsrf=APwXEdeOELeb-7xZIvj_qEYnEOaoyBCPGg%3A1682917725355&ei=XUlPZLOvFfnR5OUPn6K1gA0&ved=0ahUKEwjz0dKJrdP-AhX5KLkGHR9RDdAQ4dUDCBA&uact=5&oq=he+likes+her&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIJCAAQBxAeELADMgkIABAHEB4QsAMyCQgAEAcQHhCwAzIJCAAQBxAeELADMgkIABAHEB4QsAMyCQgAEAcQHhCwAzIJCAAQBxAeELADMgkIABAHEB4QsAMyCQgAEAcQHhCwAzIJCAAQBxAeELADSgQIQRgBUABYAGCOFGgCcAB4AIABAIgBAJIBAJgBAKABAsgBCsABAQ&sclient=gws-wiz-serp">.</a><a href="https://github.com/Yasmya">.</a>
+- 👀 I’m interested in Y ..<a href="https://github.com/Yasmya">.</a>
 - 🌱 I’m currently learning technology.
 - 💞️ I’m looking to collaborate on Sptech.
 - 📫 How to reach me alexandre.murata@sptech.school
