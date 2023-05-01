@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
   <div align="center">
     <a href="https://github.com/AlexandreDSptech">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AlexandreDSptech&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreDSptech&layout=compact&langs_count=7&bg_color=0d1117&hide_border=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreDSptech&layout=compact&langs_count=7&bg_color=0d1117&hide_border=true"/>
   </div>
     
 ## ★ 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌
