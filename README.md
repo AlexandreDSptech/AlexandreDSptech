@@ -12,3 +12,26 @@
 AlexandreDSptech/AlexandreDSptech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+## ★ 𝑮𝒊𝒕𝑯𝒖𝒃 𝑨𝒏𝒂𝒍𝒚𝒕𝒊𝒄𝒔
+  
+  <div align="center">
+    <a href="https://github.com/AlexandreDSptech">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AlexandreDSptech&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreDSptech&layout=compact&langs_count=7&bg_color=0d1117&hide_border=true"/>
+  </div>
+    
+## ★ 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌
+
+<div align="center">
+  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-bcbcbc?style=for-the-badge&logo=python)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-323330?style=for-the-badge&logo=VisualStudioCode&logoColor=blue)&nbsp;
+![Firebase](https://img.shields.io/badge/firebase-FFFFFF?style=for-the-badge&logo=Firebase&logoColor=yellow)&nbsp;
+
+</div>
