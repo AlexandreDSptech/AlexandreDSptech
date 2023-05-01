@@ -31,4 +31,7 @@ You can click the Preview link to take a look at your changes.
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-323330?style=for-the-badge&logo=VisualStudioCode&logoColor=blue)&nbsp;
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)&nbsp;
+![Chart.Js](https://img.shields.io/badge/ChartJs-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)&nbsp;
+![Node.Js](https://img.shields.io/badge/NodeJs-#339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
+ 
 </div>
