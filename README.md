@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alexandre
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning schedule.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Y...
+- 🌱 I’m currently learning technology.
+- 💞️ I’m looking to collaborate on Sptech
 - 📫 How to reach me alexandre.murata@sptech.school
 
 
