@@ -1,10 +1,13 @@
-- 👋 Hi, I’m Alexandre.
+var name = Alexandre;
+function ReadMe() {<br/>
+box.innerHTML = `
+- 👋 Hi, I’m ${name}.
 - 👀 I’m interested in Y ..<a href="https://github.com/Yasmya">.</a>
-- 🌱 I’m currently learning technology, I like so much JavaScript.
-- 📫 My email: alexandre.murata@sptech.school.
-
-
-
+- 🌱 I’m currently learning technology, I like so much JavaScript, it's so funny.
+- 📫 My email: alexandre.murata@sptech.school.<br/>
+`<br/>
+}<br/>
+ReadMe();
 <img src = "https://pa1.narvii.com/6391/8079d95849b2977ab2fbf3c8898d029b7a1d9c08_hq.gif"/>
 
 <!--
