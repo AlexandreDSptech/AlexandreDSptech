@@ -2,7 +2,7 @@ var name = Alexandre;<br/>
 function ReadMe() {<br/>
 box.innerHTML = `
 - 👋 Hi, I’m ${name}.
-- 👀 I’ like Y ..<a href="https://github.com/Yasmya">.</a>
+- 👀 I’ like back-end code
 - 🌱 I’m currently learning technology, I like so much JavaScript, it's so funny.
 - 📫 My email: alexandre.murata@sptech.school.<br/>
 `<br/>
